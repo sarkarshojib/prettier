@@ -1,4 +1,4 @@
-# Contributing to Prettier
+# Contributing to Prettier MooN
 
 To get up and running, install the dependencies and run the tests:
 
